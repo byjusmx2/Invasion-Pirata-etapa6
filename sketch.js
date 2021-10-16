@@ -113,7 +113,7 @@ function draw() {
 
   fill("#6d4c41");
   textSize(40);
-  text(`Score:${score}`, width - 200, 50);
+  text(`Puntuación:${score}`, width - 200, 50);
   textAlign(CENTER, CENTER);
 }
 
